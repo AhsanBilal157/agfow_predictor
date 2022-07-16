@@ -1,0 +1,30 @@
+*{
+    background-color: #e7eddf;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+    color: green;
+}
+.result-section{
+    background-color: #e7eddf;
+    padding: 10px;
+    text-align: center;
+}
+.primary-btn{
+
+    padding: 9px 10px;
+    background-color: #1a8324;
+    color: white;
+    font-size: 20px;
+    line-height: 36px;
+    font-family: "BlueberrySans-Medium";
+    border-radius: 10px;
+    transition: 0.4s;
+    
+}
+.primary-btn:hover{
+    background-color: white;
+    color: #1a8324;
+}
